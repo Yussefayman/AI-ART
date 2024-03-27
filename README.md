@@ -1,1 +1,1 @@
-![Lesson 1 Highlight](/Achievement/A picnic on river side.png)
+![Lesson 1 Highlight](/Achievement/L1-Picnic-im.png)
