@@ -5,6 +5,6 @@
 - Clip Model and Image generation
 
 ## Lesson 1 Showcase:
-![Lesson 1 Highlight](Achievement/L1-Picnic-im.png)
-![Lesson 1 Highlight](Achievement/L1-Picnic-v.mp4)
-![Lesson 1 Highlight](Achievement/LaVersailleCastle.mp4)
+![Picninc on the river side](Achievemen/L1-Picnic-im.png)
+![Picnic on the river side](https://github.com/Yussefayman/AI-ART/tree/main/Achievement/L1-Picnic-v.mp4)
+![LaVersaille Castle](https://github.com/Yussefayman/AI-ART/tree/main/Achievement/LaVersailleCastle.mp4)
