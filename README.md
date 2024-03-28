@@ -1,4 +1,4 @@
-# AI Art Learning Journey with Jonathan Whitaker
+# AI Art Learning Journey 
 
 ## Key Concepts:
 - Running through fundamentals of PyTorch
@@ -12,3 +12,8 @@
 <h3>Another Example:</h3>
 
 ![Castle](https://github.com/Yussefayman/AI-ART/assets/32814614/d25abf91-f743-4c91-9f9a-826df38e59b7)
+
+
+<h2> Credits </h2>
+
+- Jonathan Whitker
