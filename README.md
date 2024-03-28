@@ -7,3 +7,5 @@
 <h3> Lesson 1 ShowCase </h3>
 
 ![Lesson 1 Highlight](/Achievement/L1-Picnic-im.png)
+![Lesson 1 Highlight](/Achievement/L1-Picnic-v.mp4)
+![Lesson 1 Highlight](/Achievement/LaVersailleCastle.mp4)
