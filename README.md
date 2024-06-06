@@ -4,7 +4,7 @@
 - Running through fundamentals of PyTorch
 - Clip Model and Image generation
 
-## Lesson 1 Showcase:
+## Showcase:
 ![Picninc on the river side](Achievement/L1-Picnic-im.png)
 <h3>Generation Process GiF:</h3>
 
